@@ -1,0 +1,12 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"vscjava.vscode-java-pack",
+				"hediet.vscode-drawio",
+				"bierner.markdown-mermaid"
+			]
+		}
+	}
+}
